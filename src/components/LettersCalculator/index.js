@@ -35,6 +35,9 @@ class LettersCalculator extends Component {
             </form>
             <p className="letters-count">No.of letters: {inputPhrase.length}</p>
           </div>
+          <div>
+            <h1>Refresh the page, to start again.</h1>
+          </div>
           <div className="image-section">
             <img
               alt="letters calculator"
